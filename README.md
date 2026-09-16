@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Chukwuwa Chioma</h1>
 
-<!--
-**Chioma0065/Chioma0065** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Android developer in training — building apps with Kotlin and Jetpack Compose.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm currently working through the Android Basics with Compose course
+- 🌱 Learning Kotlin, Jetpack Compose and Android architecture
+- 💼 Reach me on [LinkedIn](https://linkedin.com/in/chioma-chukwuwa-62320524a)
+- 📫 Email: chukwuwachioma@gmail.com
+
+### Technologies and Tools I use
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+Thanks for checking out my profile.
